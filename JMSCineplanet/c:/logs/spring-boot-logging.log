@@ -1,0 +1,56 @@
+2019-abr-27 07:47:36.305 INFO  [restartedMain]c.u.J.JmsCineApplication - Starting JmsCineApplication on shurtado-upc with PID 30513 (started by shurtado in /home/shurtado/Público/ProyectoFinalDSD/JMSCineplanet)
+2019-abr-27 07:47:36.309 INFO  [restartedMain]c.u.J.JmsCineApplication - No active profile set, falling back to default profiles: default
+2019-abr-27 07:47:36.447 INFO  [restartedMain]o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-abr-27 07:47:36.448 INFO  [restartedMain]o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-abr-27 07:47:38.567 INFO  [restartedMain]o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 9090 (http)
+2019-abr-27 07:47:38.609 INFO  [restartedMain]o.a.c.c.StandardService - Starting service [Tomcat]
+2019-abr-27 07:47:38.609 INFO  [restartedMain]o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-abr-27 07:47:38.752 INFO  [restartedMain]o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext
+2019-abr-27 07:47:38.753 INFO  [restartedMain]o.s.w.c.ContextLoader - Root WebApplicationContext: initialization completed in 2305 ms
+2019-abr-27 07:47:39.192 INFO  [restartedMain]o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-abr-27 07:47:39.584 WARN  [restartedMain]o.s.b.d.a.OptionalLiveReloadServer - Unable to start LiveReload server
+2019-abr-27 07:47:39.987 INFO  [restartedMain]o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 9090 (http) with context path ''
+2019-abr-27 07:47:39.992 INFO  [restartedMain]c.u.J.JmsCineApplication - Started JmsCineApplication in 4.551 seconds (JVM running for 5.257)
+2019-abr-27 07:53:02.218 INFO  [Thread-9]o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-abr-27 07:53:25.322 INFO  [restartedMain]c.u.J.JmsCineApplication - Starting JmsCineApplication on shurtado-upc with PID 439 (started by shurtado in /home/shurtado/Público/ProyectoFinalDSD/JMSCineplanet)
+2019-abr-27 07:53:25.334 INFO  [restartedMain]c.u.J.JmsCineApplication - No active profile set, falling back to default profiles: default
+2019-abr-27 07:53:25.517 INFO  [restartedMain]o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-abr-27 07:53:25.518 INFO  [restartedMain]o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-abr-27 07:53:27.555 INFO  [restartedMain]o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 9090 (http)
+2019-abr-27 07:53:27.608 INFO  [restartedMain]o.a.c.c.StandardService - Starting service [Tomcat]
+2019-abr-27 07:53:27.608 INFO  [restartedMain]o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-abr-27 07:53:27.719 INFO  [restartedMain]o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext
+2019-abr-27 07:53:27.720 INFO  [restartedMain]o.s.w.c.ContextLoader - Root WebApplicationContext: initialization completed in 2201 ms
+2019-abr-27 07:53:28.138 INFO  [restartedMain]o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-abr-27 07:53:28.566 WARN  [restartedMain]o.s.b.d.a.OptionalLiveReloadServer - Unable to start LiveReload server
+2019-abr-27 07:53:28.853 INFO  [restartedMain]o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 9090 (http) with context path ''
+2019-abr-27 07:53:28.858 INFO  [restartedMain]c.u.J.JmsCineApplication - Started JmsCineApplication in 4.366 seconds (JVM running for 5.076)
+2019-abr-27 07:59:36.066 INFO  [Thread-9]o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-abr-27 08:39:35.026 INFO  [restartedMain]c.u.J.JmsCineApplication - Starting JmsCineApplication on shurtado-upc with PID 17018 (started by shurtado in /home/shurtado/Público/ProyectoFinalDSD/JMSCineplanet)
+2019-abr-27 08:39:35.040 INFO  [restartedMain]c.u.J.JmsCineApplication - No active profile set, falling back to default profiles: default
+2019-abr-27 08:39:35.221 INFO  [restartedMain]o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-abr-27 08:39:35.222 INFO  [restartedMain]o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-abr-27 08:39:37.455 INFO  [restartedMain]o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 9090 (http)
+2019-abr-27 08:39:37.501 INFO  [restartedMain]o.a.c.c.StandardService - Starting service [Tomcat]
+2019-abr-27 08:39:37.501 INFO  [restartedMain]o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-abr-27 08:39:37.615 INFO  [restartedMain]o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext
+2019-abr-27 08:39:37.616 INFO  [restartedMain]o.s.w.c.ContextLoader - Root WebApplicationContext: initialization completed in 2393 ms
+2019-abr-27 08:39:38.028 INFO  [restartedMain]o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-abr-27 08:39:38.407 WARN  [restartedMain]o.s.b.d.a.OptionalLiveReloadServer - Unable to start LiveReload server
+2019-abr-27 08:39:38.697 INFO  [restartedMain]o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 9090 (http) with context path ''
+2019-abr-27 08:39:38.708 INFO  [restartedMain]c.u.J.JmsCineApplication - Started JmsCineApplication in 4.575 seconds (JVM running for 5.296)
+2019-abr-27 08:41:49.834 INFO  [Thread-9]o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-abr-27 09:10:58.822 INFO  [restartedMain]c.u.J.JmsCineApplication - Starting JmsCineApplication on shurtado-upc with PID 29265 (started by shurtado in /home/shurtado/Público/ProyectoFinalDSD/JMSCineplanet)
+2019-abr-27 09:10:58.843 INFO  [restartedMain]c.u.J.JmsCineApplication - No active profile set, falling back to default profiles: default
+2019-abr-27 09:10:59.017 INFO  [restartedMain]o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-abr-27 09:10:59.017 INFO  [restartedMain]o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-abr-27 09:11:01.267 INFO  [restartedMain]o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 9090 (http)
+2019-abr-27 09:11:01.318 INFO  [restartedMain]o.a.c.c.StandardService - Starting service [Tomcat]
+2019-abr-27 09:11:01.319 INFO  [restartedMain]o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-abr-27 09:11:01.449 INFO  [restartedMain]o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext
+2019-abr-27 09:11:01.450 INFO  [restartedMain]o.s.w.c.ContextLoader - Root WebApplicationContext: initialization completed in 2433 ms
+2019-abr-27 09:11:01.938 INFO  [restartedMain]o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-abr-27 09:11:02.346 WARN  [restartedMain]o.s.b.d.a.OptionalLiveReloadServer - Unable to start LiveReload server
+2019-abr-27 09:11:02.627 INFO  [restartedMain]o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 9090 (http) with context path ''
+2019-abr-27 09:11:02.631 INFO  [restartedMain]c.u.J.JmsCineApplication - Started JmsCineApplication in 4.65 seconds (JVM running for 5.355)
+2019-abr-27 10:41:39.122 INFO  [Thread-9]o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
